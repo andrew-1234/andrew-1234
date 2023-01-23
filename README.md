@@ -1,9 +1,9 @@
 ### Hi
 
 - 🐸 I'm a research ecologist with a background in movement and bioacoustics in frogs 
-- 🔭 I’m currently working as a research assistant at QUT
-- 🌱 I'm interested in developing and contributing to reproducible and open source ecoacoustic workflows and software
-- 👯 I'm open to collaborations and new opportunities, so please get in contact! 
+- 🔭 I’m currently working at [EcoCommons](https://www.ecocommons.org.au/)
+- 🌱 I'm interested in developing and contributing to reproducible and open source ecological workflows and research software
+- 👯 I'm open to collaborations and discussion, so please get in contact! 
 - 😄 Pronouns: He/Him
 - ⬇️ Connect with me:
 
