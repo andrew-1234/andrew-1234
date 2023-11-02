@@ -1,7 +1,7 @@
 ### Hi
 
 - 🐸 I'm a research ecologist with a background in movement and bioacoustics in frogs 
-- 🔭 I’m currently working at [EcoCommons](https://www.ecocommons.org.au/)
+- 🔭 I’m currently working as a Data Analyst / R programmer with the Atlas of Living Australia @ CSIRO
 - 🌱 I'm interested in developing and contributing to reproducible and open source ecological workflows and research software
 - 👯 I'm open to collaborations and discussion, so please get in contact! 
 - 😄 Pronouns: He/Him
